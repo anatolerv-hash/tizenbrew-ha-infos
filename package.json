@@ -1,0 +1,11 @@
+{
+  "name": "tizenbrew-ha-infos",
+  "version": "1.0.0",
+  "description": "Affiche l'écran Infos Maison de Home Assistant sur la TV via TizenBrew",
+  "appName": "Infos Maison",
+  "packageType": "mods",
+  "websiteURL": "http://192.168.1.7:8123/tv-infos/infos",
+  "main": "inject.js",
+  "keys": [],
+  "license": "MIT"
+}
