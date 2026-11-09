@@ -1,6 +1,6 @@
 {
   "name": "tizenbrew-ha-infos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Affiche l'écran Infos Maison de Home Assistant sur la TV via TizenBrew",
   "appName": "Infos Maison",
   "packageType": "mods",
